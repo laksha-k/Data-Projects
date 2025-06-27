@@ -1,5 +1,8 @@
-# Project Summaries and Links
+# Project Overviews
 
-### 1. Feature Analysis for Data-Driven Home Remodel Insights
+### 1. Machine Learning Project in Python: Data-Driven Home Remodel Insights based on House Sale Price Predictive Model
 #### The goal of this analysis was to provide insight for homeowners in Ames, Iowa looking to remodel a home, focusing on what might improve the overall appeal and value of certain features of the house to a potential buyer. House sale data was analyzed from 1,460 homes sold between 2006-2010 in Ames, Iowa (Kaggle, 2016), to identify the features (interior vs structural features) that house sale predictions appear to be most sensitive to. The python file for this project includes my steps for cleaning the data (handling missing, redundant and collinear features), examining the dataset characteristics (linearity assumptions, correlations), and ultimately evaluating the performance of various regression models to determine a best-performing model in predicting sale price with this data. The best-performing model was utilized to examine the top features that contributed to sale price prediction. 
+
+### 2. Log File Processing Project in R: Text-Pattern matching to extract and organize text file data into functional format
+#### Given a text file containing data of 5 log files combined, this project entailed loading this text file into R and processing the lines of the file in an efficient manner, to retrieve and organize the contents into columns of a dataframe, that could be used for further analysis. More specifically, this involved processing log file messages of login attempts to a computer system, containing information like date and time, logging host and a message. As these messages are in a similar format, I used text pattern matching and regular expressions to extract contents of the messages and create a dataframe with these contents organized as columns. Further analysis was done as well, such as assessing the most common applications utilized, and identifying invalid logins based on the messages.
 
