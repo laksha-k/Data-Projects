@@ -1,4 +1,4 @@
-# Project Overviews
+# Overviews of my Projects
 
 ### 1. Machine Learning Project in Python: Data-Driven Home Remodel Insights based on House Sale Price Predictive Model
 #### The goal of this analysis was to provide insight for homeowners in Ames, Iowa looking to remodel a home, focusing on what might improve the overall appeal and value of certain features of the house to a potential buyer. House sale data was analyzed from 1,460 homes sold between 2006-2010 in Ames, Iowa (Kaggle, 2016), to identify the features (interior vs structural features) that house sale predictions appear to be most sensitive to. The python file for this project includes my steps for cleaning the data (handling missing, redundant and collinear features), examining the dataset characteristics (linearity assumptions, correlations), and ultimately evaluating the performance of various regression models to determine a best-performing model in predicting sale price with this data. The best-performing model was utilized to examine the top features that contributed to sale price prediction. [HouseSalePrediction_FeatureAnalysis_Python.ipynb]
