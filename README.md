@@ -1,3 +1,6 @@
+## Hello! My name is Laksha and I'm a recent Statistics graduate from UC Davis, passionate about applying data science and analytics towards driving business strategy and market research insights. Here you can find some samples of projects that I've completed, demonstrating my skills and experience working with data in Python, R and SQL, to clean, extract, analyze and visualize data, as well as implementing and assessing performance of machine learning models. 
+
+
 # Project Overviews
 
 ### 1. Machine Learning Project in Python: Data-Driven Home Remodel Insights based on House Sale Price Predictive Model
@@ -6,3 +9,5 @@
 ### 2. Log File Processing Project in R: Text-Pattern matching to extract and organize text file data into functional format
 #### Given a text file containing data of 5 log files combined, this project entailed loading this text file into R and processing the lines of the file in an efficient manner, to retrieve and organize the contents into columns of a dataframe, that could be used for further analysis. More specifically, this involved processing log file messages of login attempts to a computer system, containing information like date and time, logging host and a message. As these messages are in a similar format, I used text pattern matching and regular expressions to extract contents of the messages and create a dataframe with these contents organized as columns. Further analysis was done as well, such as assessing the most common applications utilized, and identifying invalid logins based on the messages. [LogFile_Processing_Project.R]
 
+### 3. Stack Overflow Historical Growth Analysis using SQL through R-Studio
+#### Wrote SQL queries to access Stack Exchange database and extract insights on Stack Overflow user activity and popularity growth over time.
